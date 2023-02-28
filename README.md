@@ -1,7 +1,7 @@
 <h1 align="center">Olá eu sou Samuel dos Santos Oliveira</h1>
 <h3 align="center">Um estudante de desenvolvimento Front-End JavaScript | HTML5 | CSS3.</h3>
 
-- 💬 Sobre mim: **Ex-Estagiário GC NET | 3º Semestre em ADS | Técnico em Redes de Computadores**
+- 💬 Sobre mim: **Atual estagiário RPA, Email-Marketing (HTML e CSS) | Ex-Estagiário GC NET | 4º Semestre em ADS | Técnico em Redes de Computadores**
 
 - 📫 Email para contato: **samueldsoliveira7@gmail.com**
 
